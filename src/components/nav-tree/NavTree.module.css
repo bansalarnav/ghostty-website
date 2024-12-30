@@ -5,7 +5,7 @@
 
 ul.nodesList {
   --node-font-size: 16px;
-  --node-padding: 12px 6px;
+  --node-padding: 12px 12px;
   --node-border-radius: 5px;
 
   display: flex;
